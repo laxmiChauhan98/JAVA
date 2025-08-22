@@ -1,6 +1,6 @@
 public class EmployeeStatic{
 
-     static String msg="This is a nested class";
+   static String msg="This is a nested class";
    static class NestedClass{
     static void nestedDiaplay(){
         System.out.println(msg);
