@@ -19,12 +19,12 @@ public class EmployeeSttatic {
 
       //  EmployeeSttatic.Org="Kiet";
         EmployeeSttatic es=new EmployeeSttatic();
-        es.Emp_ID=101;
+        EmployeeSttatic.Emp_ID=101;
        
         es.details();
 
         EmployeeSttatic es2=new EmployeeSttatic();
-        es2.Emp_ID=102;
+        EmployeeSttatic.Emp_ID=102;
        
         es2.details();
 
