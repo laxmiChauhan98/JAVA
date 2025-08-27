@@ -13,7 +13,7 @@ class EmployeePoly{
         System.out.println("Institute name: "+company);
     }
 }
-class Faculty extends EmployeePoly{
+class Facultiess extends EmployeePoly{
     void details(){
         super.details();  //
         System.out.println("Welcome Faculties.");
@@ -30,7 +30,7 @@ public class PolyMorphism {
         // ep.details(100000);
         // ep.details("Kiet");
 
-        Faculty f=new Faculty();
+        Facultiess f=new Facultiess();
         f.Emp_name="Arun";
         f.details();
     }
