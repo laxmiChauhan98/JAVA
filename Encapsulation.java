@@ -32,7 +32,7 @@ class EmployeeEncap{
     }
 }
 
-public class Encapsulation {
+public class Encapsulation{
     public static void main(String[] args) {
         
     EmployeeEncap ee=new EmployeeEncap();
