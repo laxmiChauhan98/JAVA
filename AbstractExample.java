@@ -1,4 +1,5 @@
 
+
 abstract class Collegee{
     abstract void Register();
     abstract void Infrastructure();

@@ -1,3 +1,4 @@
+
 class Employee{
 
     int id;
@@ -9,8 +10,7 @@ class Employee{
     }
 
 }
-
-class Faculty extends Employee{
+class Facultyy extends Employee{
 
     String dept;
     String subject;
@@ -23,7 +23,7 @@ class Faculty extends Employee{
 
 public class InheritanceSingle {
     public static void main(String[] args) {
-        Faculty f1=new Faculty();
+        Facultyy f1=new Facultyy();
         f1.id=101;
         f1.name="Shikha";
         f1.org="KIET";
@@ -32,8 +32,5 @@ public class InheritanceSingle {
 
         f1.details();
         f1.facultyDetails();
-    }
-
-
-    
+    }    
 }

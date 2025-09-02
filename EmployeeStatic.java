@@ -1,3 +1,4 @@
+
 public class EmployeeStatic{
 
    static String msg="This is a nested class";
