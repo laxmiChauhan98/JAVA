@@ -1,4 +1,3 @@
-package Unit1;
 import java.util.Scanner;
 
 class EmployeeEncap{

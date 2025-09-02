@@ -1,4 +1,4 @@
-package Unit1;
+
 interface Institute{
     void Register();
     void Infrastructure();
